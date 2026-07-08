@@ -1,0 +1,138 @@
+{% extends 'siteweb/base.html' %}
+{% load static %}
+
+{% block title %}Accueil - Afrika Pulse 221{% endblock %}
+{% block body_class %}home-page{% endblock %}
+{% block extra_css %}<link rel="stylesheet" href="{% static 'siteweb/css/hero.css' %}">{% endblock %}
+
+{% block site_header %}{% endblock %}
+{% block site_footer %}{% endblock %}
+
+{% block main %}
+<section class="hero-section" id="hero-section" data-hero-slider data-fallback-image="{% static 'siteweb/images/hero-sunset.png' %}">
+    <div class="hero-section__bg" aria-hidden="true">
+        <img class="hero-section__bg-img is-active" src="{{ hero_slides.0.image }}" alt="" data-fallback="{% static 'siteweb/images/hero-sunset.png' %}">
+        <img class="hero-section__bg-img" src="{{ hero_slides.0.image }}" alt="" data-fallback="{% static 'siteweb/images/hero-sunset.png' %}">
+    </div>
+    <div class="hero-section__overlay" aria-hidden="true"></div>
+
+    <!-- Breaking news -->
+    <div class="breaking-bar">
+        <div class="container breaking-bar__inner">
+            <span class="breaking-tag">BREAKING</span>
+            <div class="breaking-ticker" aria-live="polite">
+                {% for post in breaking_posts %}
+                <a href="{% url 'siteweb:post_detail' post.id %}">{{ post.title }}</a>
+                {% if not forloop.last %}<span class="ticker-sep">•</span>{% endif %}
+                {% empty %}
+                <span>Actualités africaines en direct sur Afrika Pulse 221</span>
+                {% endfor %}
+            </div>
+            <a href="{% url 'siteweb:post_list' %}" class="breaking-link">Voir toutes les infos →</a>
+        </div>
+    </div>
+
+    <!-- Navigation -->
+    <header class="hero-nav">
+        <div class="container hero-nav__inner">
+            <a href="{% url 'siteweb:home' %}" class="hero-logo-link">
+                <img src="{% static 'siteweb/images/logo-afrika-pulse-221.png' %}" alt="Afrika Pulse 221" class="hero-logo">
+            </a>
+            <nav class="hero-site-nav" id="hero-site-nav">
+                <a href="{% url 'siteweb:home' %}" class="active">Accueil</a>
+                {% for cat in nav_categories %}
+                <a href="{% url 'siteweb:post_list' %}">{{ cat }}</a>
+                {% endfor %}
+            </nav>
+            {% include 'siteweb/includes/header_actions.html' with variant='hero' nav_id='hero-site-nav' %}
+        </div>
+    </header>
+
+    <!-- Hero content -->
+    <div class="hero-content">
+        <div class="container">
+            <span class="hero-tag" data-hero-category>{{ hero_slides.0.category }}</span>
+            <h1 data-hero-title>{{ hero_slides.0.title }}<span class="hero-dot">.</span></h1>
+            <p class="hero-desc" data-hero-excerpt>{{ hero_slides.0.excerpt }}</p>
+            <div class="hero-cta">
+                <a href="{{ hero_slides.0.url }}" class="btn-hero btn-hero--primary" data-hero-cta>Lire l'article →</a>
+                <a href="{% url 'siteweb:post_list' %}" class="btn-hero btn-hero--secondary">
+                    <span>Toutes les actualités</span>
+                    <span class="play-icon" aria-hidden="true">→</span>
+                </a>
+            </div>
+            <div class="hero-filters">
+                {% for filter in hero_filters %}
+                <a href="{% url 'siteweb:post_list' %}" class="hero-filter">{{ filter }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+    <!-- Slider controls -->
+    <div class="hero-slider">
+        <div class="container hero-slider__inner">
+            <span class="slide-counter" data-slide-counter>01 / {{ hero_slides|length|stringformat:"02d" }}</span>
+            <div class="slide-progress" aria-hidden="true">
+                <span class="slide-progress__fill" data-slide-progress></span>
+            </div>
+            <div class="slide-arrows">
+                <button type="button" class="slide-arrow" data-slide-prev aria-label="Slide précédent">‹</button>
+                <button type="button" class="slide-arrow" data-slide-next aria-label="Slide suivant">›</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Stats bar -->
+    <div class="hero-stats">
+        <div class="container hero-stats__grid">
+            <div class="hero-stat">
+                <span class="hero-stat__icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M4 5h16v14a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V5z"/>
+                        <path d="M7 9h10M7 13h10M7 17h6"/>
+                    </svg>
+                </span>
+                <span><strong>{{ published_count|default:"5 000" }}+</strong> articles publiés</span>
+            </div>
+            <div class="hero-stat">
+                <span class="hero-stat__icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+                        <circle cx="9" cy="7" r="4"/>
+                        <path d="M22 21v-2a4 4 0 0 0-3-3.87"/>
+                        <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+                    </svg>
+                </span>
+                <span><strong>120</strong> journalistes experts</span>
+            </div>
+            <div class="hero-stat">
+                <span class="hero-stat__icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="10"/>
+                        <path d="M2 12h20"/>
+                        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+                    </svg>
+                </span>
+                <span><strong>18</strong> pays couverts</span>
+            </div>
+            <div class="hero-stat">
+                <span class="hero-stat__icon" aria-hidden="true">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">
+                        <circle cx="12" cy="13" r="8"/>
+                        <path d="M12 9v4l2.5 2.5"/>
+                        <path d="M9 2h6"/>
+                        <path d="M12 2v2"/>
+                    </svg>
+                </span>
+                <span><strong>24h/24</strong> d'actualités en continu</span>
+            </div>
+        </div>
+    </div>
+</section>
+{{ hero_slides|json_script:"hero-slides-data" }}
+{% endblock %}
+
+{% block extra_js %}
+<script src="{% static 'siteweb/js/hero-slider.js' %}"></script>
+{% endblock %}

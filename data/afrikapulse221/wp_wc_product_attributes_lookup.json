@@ -1,0 +1,50 @@
+[
+  {
+    "product_id": 1761,
+    "product_or_parent_id": 1761,
+    "taxonomy": "pa_color",
+    "term_id": 31,
+    "is_variation_attribute": 0,
+    "in_stock": 1
+  },
+  {
+    "product_id": 1761,
+    "product_or_parent_id": 1761,
+    "taxonomy": "pa_color",
+    "term_id": 38,
+    "is_variation_attribute": 0,
+    "in_stock": 1
+  },
+  {
+    "product_id": 2216,
+    "product_or_parent_id": 2216,
+    "taxonomy": "pa_color",
+    "term_id": 31,
+    "is_variation_attribute": 0,
+    "in_stock": 1
+  },
+  {
+    "product_id": 2216,
+    "product_or_parent_id": 2216,
+    "taxonomy": "pa_color",
+    "term_id": 38,
+    "is_variation_attribute": 0,
+    "in_stock": 1
+  },
+  {
+    "product_id": 2233,
+    "product_or_parent_id": 2233,
+    "taxonomy": "pa_color",
+    "term_id": 31,
+    "is_variation_attribute": 0,
+    "in_stock": 1
+  },
+  {
+    "product_id": 2233,
+    "product_or_parent_id": 2233,
+    "taxonomy": "pa_color",
+    "term_id": 38,
+    "is_variation_attribute": 0,
+    "in_stock": 1
+  }
+]

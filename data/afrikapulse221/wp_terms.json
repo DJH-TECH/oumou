@@ -1,0 +1,680 @@
+[
+  {
+    "term_id": 1,
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "term_group": 0
+  },
+  {
+    "term_id": 2,
+    "name": "simple",
+    "slug": "simple",
+    "term_group": 0
+  },
+  {
+    "term_id": 3,
+    "name": "grouped",
+    "slug": "grouped",
+    "term_group": 0
+  },
+  {
+    "term_id": 4,
+    "name": "variable",
+    "slug": "variable",
+    "term_group": 0
+  },
+  {
+    "term_id": 5,
+    "name": "external",
+    "slug": "external",
+    "term_group": 0
+  },
+  {
+    "term_id": 6,
+    "name": "exclude-from-search",
+    "slug": "exclude-from-search",
+    "term_group": 0
+  },
+  {
+    "term_id": 7,
+    "name": "exclude-from-catalog",
+    "slug": "exclude-from-catalog",
+    "term_group": 0
+  },
+  {
+    "term_id": 8,
+    "name": "featured",
+    "slug": "featured",
+    "term_group": 0
+  },
+  {
+    "term_id": 9,
+    "name": "outofstock",
+    "slug": "outofstock",
+    "term_group": 0
+  },
+  {
+    "term_id": 10,
+    "name": "rated-1",
+    "slug": "rated-1",
+    "term_group": 0
+  },
+  {
+    "term_id": 11,
+    "name": "rated-2",
+    "slug": "rated-2",
+    "term_group": 0
+  },
+  {
+    "term_id": 12,
+    "name": "rated-3",
+    "slug": "rated-3",
+    "term_group": 0
+  },
+  {
+    "term_id": 13,
+    "name": "rated-4",
+    "slug": "rated-4",
+    "term_group": 0
+  },
+  {
+    "term_id": 14,
+    "name": "rated-5",
+    "slug": "rated-5",
+    "term_group": 0
+  },
+  {
+    "term_id": 15,
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "term_group": 0
+  },
+  {
+    "term_id": 21,
+    "name": "GameDayGurus",
+    "slug": "gamedaygurus",
+    "term_group": 0
+  },
+  {
+    "term_id": 22,
+    "name": "SportsDynasty",
+    "slug": "sportsdynasty",
+    "term_group": 0
+  },
+  {
+    "term_id": 23,
+    "name": "SportsMania",
+    "slug": "sportsmania",
+    "term_group": 0
+  },
+  {
+    "term_id": 24,
+    "name": "SportsPulse",
+    "slug": "sportspulse",
+    "term_group": 0
+  },
+  {
+    "term_id": 25,
+    "name": "SportsXplorer",
+    "slug": "sportsxplorer",
+    "term_group": 0
+  },
+  {
+    "term_id": 26,
+    "name": "ACCESORIES",
+    "slug": "accessories",
+    "term_group": 0
+  },
+  {
+    "term_id": 27,
+    "name": "accessories",
+    "slug": "accessories",
+    "term_group": 0
+  },
+  {
+    "term_id": 28,
+    "name": "accessory",
+    "slug": "accessory",
+    "term_group": 0
+  },
+  {
+    "term_id": 29,
+    "name": "ball",
+    "slug": "ball",
+    "term_group": 0
+  },
+  {
+    "term_id": 30,
+    "name": "balls",
+    "slug": "balls",
+    "term_group": 0
+  },
+  {
+    "term_id": 31,
+    "name": "Blue",
+    "slug": "blue",
+    "term_group": 0
+  },
+  {
+    "term_id": 32,
+    "name": "Boots",
+    "slug": "boots",
+    "term_group": 0
+  },
+  {
+    "term_id": 33,
+    "name": "CLASSIFIED GLOVES",
+    "slug": "music",
+    "term_group": 0
+  },
+  {
+    "term_id": 34,
+    "name": "cloths",
+    "slug": "cloths",
+    "term_group": 0
+  },
+  {
+    "term_id": 35,
+    "name": "fashion",
+    "slug": "fashion",
+    "term_group": 0
+  },
+  {
+    "term_id": 36,
+    "name": "football",
+    "slug": "football",
+    "term_group": 0
+  },
+  {
+    "term_id": 37,
+    "name": "gloves",
+    "slug": "gloves",
+    "term_group": 0
+  },
+  {
+    "term_id": 38,
+    "name": "Gray",
+    "slug": "gray",
+    "term_group": 0
+  },
+  {
+    "term_id": 39,
+    "name": "Green",
+    "slug": "green",
+    "term_group": 0
+  },
+  {
+    "term_id": 40,
+    "name": "Large",
+    "slug": "large",
+    "term_group": 0
+  },
+  {
+    "term_id": 41,
+    "name": "Medium",
+    "slug": "medium",
+    "term_group": 0
+  },
+  {
+    "term_id": 42,
+    "name": "Men",
+    "slug": "men",
+    "term_group": 0
+  },
+  {
+    "term_id": 43,
+    "name": "MEN CLASSIFIED JERSEY",
+    "slug": "clothing",
+    "term_group": 0
+  },
+  {
+    "term_id": 44,
+    "name": "page",
+    "slug": "page",
+    "term_group": 0
+  },
+  {
+    "term_id": 45,
+    "name": "polo",
+    "slug": "polo",
+    "term_group": 0
+  },
+  {
+    "term_id": 46,
+    "name": "Red",
+    "slug": "red",
+    "term_group": 0
+  },
+  {
+    "term_id": 47,
+    "name": "shirt",
+    "slug": "shirt",
+    "term_group": 0
+  },
+  {
+    "term_id": 48,
+    "name": "shoes",
+    "slug": "shoes",
+    "term_group": 0
+  },
+  {
+    "term_id": 49,
+    "name": "Small",
+    "slug": "small",
+    "term_group": 0
+  },
+  {
+    "term_id": 50,
+    "name": "STYLISH TARF",
+    "slug": "hoodies",
+    "term_group": 0
+  },
+  {
+    "term_id": 51,
+    "name": "t-shirt",
+    "slug": "t-shirt",
+    "term_group": 0
+  },
+  {
+    "term_id": 52,
+    "name": "uniform",
+    "slug": "uniform",
+    "term_group": 0
+  },
+  {
+    "term_id": 53,
+    "name": "Yellow",
+    "slug": "yellow",
+    "term_group": 0
+  },
+  {
+    "term_id": 54,
+    "name": "Footer menu",
+    "slug": "footer-menu",
+    "term_group": 0
+  },
+  {
+    "term_id": 55,
+    "name": "Main menu",
+    "slug": "main-menu",
+    "term_group": 0
+  },
+  {
+    "term_id": 56,
+    "name": "Single Menu",
+    "slug": "single-menu",
+    "term_group": 0
+  },
+  {
+    "term_id": 57,
+    "name": "A LA UNE",
+    "slug": "a-la-une",
+    "term_group": 0
+  },
+  {
+    "term_id": 58,
+    "name": "POLITIQUE",
+    "slug": "politique",
+    "term_group": 0
+  },
+  {
+    "term_id": 59,
+    "name": "SOCIETE",
+    "slug": "societe",
+    "term_group": 0
+  },
+  {
+    "term_id": 60,
+    "name": "AFRIQUE",
+    "slug": "afrique",
+    "term_group": 0
+  },
+  {
+    "term_id": 61,
+    "name": "SPORT",
+    "slug": "sport",
+    "term_group": 0
+  },
+  {
+    "term_id": 62,
+    "name": "PEOPLE",
+    "slug": "people",
+    "term_group": 0
+  },
+  {
+    "term_id": 63,
+    "name": "FAITS-DIVERS",
+    "slug": "faits-divers",
+    "term_group": 0
+  },
+  {
+    "term_id": 64,
+    "name": "SANTE",
+    "slug": "sante",
+    "term_group": 0
+  },
+  {
+    "term_id": 65,
+    "name": "un accident",
+    "slug": "un-accident",
+    "term_group": 0
+  },
+  {
+    "term_id": 66,
+    "name": "un accident",
+    "slug": "un-accident-2",
+    "term_group": 0
+  },
+  {
+    "term_id": 67,
+    "name": "une d??c??s",
+    "slug": "une-deces",
+    "term_group": 0
+  },
+  {
+    "term_id": 68,
+    "name": "finance",
+    "slug": "finance",
+    "term_group": 0
+  },
+  {
+    "term_id": 69,
+    "name": "Finances",
+    "slug": "finances",
+    "term_group": 0
+  },
+  {
+    "term_id": 70,
+    "name": "Sant??",
+    "slug": "sante-2",
+    "term_group": 0
+  },
+  {
+    "term_id": 71,
+    "name": "Monde",
+    "slug": "monde",
+    "term_group": 0
+  },
+  {
+    "term_id": 72,
+    "name": "Economie",
+    "slug": "economie",
+    "term_group": 0
+  },
+  {
+    "term_id": 73,
+    "name": "S??n??gal",
+    "slug": "senegal",
+    "term_group": 0
+  },
+  {
+    "term_id": 74,
+    "name": "N??crologie",
+    "slug": "necrologie",
+    "term_group": 0
+  },
+  {
+    "term_id": 75,
+    "name": "??conomie",
+    "slug": "economie-2",
+    "term_group": 0
+  },
+  {
+    "term_id": 76,
+    "name": "En??rgie",
+    "slug": "energie",
+    "term_group": 0
+  },
+  {
+    "term_id": 77,
+    "name": "TOGO",
+    "slug": "togo",
+    "term_group": 0
+  },
+  {
+    "term_id": 78,
+    "name": "Banque",
+    "slug": "banque",
+    "term_group": 0
+  },
+  {
+    "term_id": 79,
+    "name": "Paris",
+    "slug": "paris",
+    "term_group": 0
+  },
+  {
+    "term_id": 80,
+    "name": "c??te d???ivoire",
+    "slug": "cote-divoire",
+    "term_group": 0
+  },
+  {
+    "term_id": 81,
+    "name": "Bourse",
+    "slug": "bourse",
+    "term_group": 0
+  },
+  {
+    "term_id": 82,
+    "name": "S??n??gal_Etats Unis",
+    "slug": "senegal_etats-unis",
+    "term_group": 0
+  },
+  {
+    "term_id": 83,
+    "name": "Commission",
+    "slug": "commission",
+    "term_group": 0
+  },
+  {
+    "term_id": 84,
+    "name": "Centrafrique",
+    "slug": "centrafrique",
+    "term_group": 0
+  },
+  {
+    "term_id": 85,
+    "name": "Gouvernement",
+    "slug": "gouvernement",
+    "term_group": 0
+  },
+  {
+    "term_id": 86,
+    "name": "BTP (batiments et travaux publics)",
+    "slug": "btp-batiments-et-travaux-publics",
+    "term_group": 0
+  },
+  {
+    "term_id": 87,
+    "name": "Leadership",
+    "slug": "leadership",
+    "term_group": 0
+  },
+  {
+    "term_id": 88,
+    "name": "BTP",
+    "slug": "btp",
+    "term_group": 0
+  },
+  {
+    "term_id": 89,
+    "name": "coop??ration",
+    "slug": "cooperation",
+    "term_group": 0
+  },
+  {
+    "term_id": 90,
+    "name": "Mouritanie",
+    "slug": "mouritanie",
+    "term_group": 0
+  },
+  {
+    "term_id": 91,
+    "name": "communiqu??e de la presse",
+    "slug": "communiquee-de-la-presse",
+    "term_group": 0
+  },
+  {
+    "term_id": 92,
+    "name": "Diplomatie",
+    "slug": "diplomatie",
+    "term_group": 0
+  },
+  {
+    "term_id": 93,
+    "name": "??nergie",
+    "slug": "energie-2",
+    "term_group": 0
+  },
+  {
+    "term_id": 94,
+    "name": "commerce",
+    "slug": "commerce",
+    "term_group": 0
+  },
+  {
+    "term_id": 95,
+    "name": "justice",
+    "slug": "justice",
+    "term_group": 0
+  },
+  {
+    "term_id": 96,
+    "name": "lutte contre le Tabac",
+    "slug": "lutte-contre-le-tabac",
+    "term_group": 0
+  },
+  {
+    "term_id": 97,
+    "name": "Industrie",
+    "slug": "industrie",
+    "term_group": 0
+  },
+  {
+    "term_id": 98,
+    "name": "Emploi",
+    "slug": "emploi",
+    "term_group": 0
+  },
+  {
+    "term_id": 99,
+    "name": "text",
+    "slug": "text",
+    "term_group": 0
+  },
+  {
+    "term_id": 100,
+    "name": "after_paragraph",
+    "slug": "after_paragraph",
+    "term_group": 0
+  },
+  {
+    "term_id": 101,
+    "name": "sample",
+    "slug": "sample",
+    "term_group": 0
+  },
+  {
+    "term_id": 102,
+    "name": "message",
+    "slug": "message",
+    "term_group": 0
+  },
+  {
+    "term_id": 103,
+    "name": "php",
+    "slug": "php",
+    "term_group": 0
+  },
+  {
+    "term_id": 104,
+    "name": "everywhere",
+    "slug": "everywhere",
+    "term_group": 0
+  },
+  {
+    "term_id": 105,
+    "name": "disable",
+    "slug": "disable",
+    "term_group": 0
+  },
+  {
+    "term_id": 106,
+    "name": "comments",
+    "slug": "comments",
+    "term_group": 0
+  },
+  {
+    "term_id": 107,
+    "name": "header",
+    "slug": "header",
+    "term_group": 0
+  },
+  {
+    "term_id": 108,
+    "name": "twentytwentyfive",
+    "slug": "twentytwentyfive",
+    "term_group": 0
+  },
+  {
+    "term_id": 109,
+    "name": "blocksy",
+    "slug": "blocksy",
+    "term_group": 0
+  },
+  {
+    "term_id": 110,
+    "name": "section",
+    "slug": "section",
+    "term_group": 0
+  },
+  {
+    "term_id": 111,
+    "name": "archive",
+    "slug": "archive",
+    "term_group": 0
+  },
+  {
+    "term_id": 112,
+    "name": "loop-item",
+    "slug": "loop-item",
+    "term_group": 0
+  },
+  {
+    "term_id": 113,
+    "name": "single-page",
+    "slug": "single-page",
+    "term_group": 0
+  },
+  {
+    "term_id": 114,
+    "name": "footer",
+    "slug": "footer",
+    "term_group": 0
+  },
+  {
+    "term_id": 115,
+    "name": "popup",
+    "slug": "popup",
+    "term_group": 0
+  },
+  {
+    "term_id": 116,
+    "name": "categories",
+    "slug": "categories",
+    "term_group": 0
+  },
+  {
+    "term_id": 117,
+    "name": "widget",
+    "slug": "widget",
+    "term_group": 0
+  },
+  {
+    "term_id": 118,
+    "name": "info",
+    "slug": "info",
+    "term_group": 0
+  }
+]

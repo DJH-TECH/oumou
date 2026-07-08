@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Marketing Widgets",
+    "alias": "marketing_widgets",
+    "ordering": 1,
+    "params": "",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 2,
+    "title": "Team Members",
+    "alias": "team_members",
+    "ordering": 2,
+    "params": "{\"icon\":\"\"}",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 3,
+    "title": "Testimonials",
+    "alias": "testimonials",
+    "ordering": 3,
+    "params": "{\"icon\":\"\"}",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 4,
+    "title": "Creative Widgets",
+    "alias": "creative_widgets",
+    "ordering": 4,
+    "params": "",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 5,
+    "title": "Tools",
+    "alias": "tools",
+    "ordering": 5,
+    "params": "",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 6,
+    "title": "Post Widgets",
+    "alias": "post_widgets",
+    "ordering": 6,
+    "params": "",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 7,
+    "title": "Content Boxes",
+    "alias": "content_boxes",
+    "ordering": 7,
+    "params": "",
+    "type": "elementor",
+    "parent_id": null
+  },
+  {
+    "id": 8,
+    "title": "Media Widgets",
+    "alias": "media_widgets",
+    "ordering": 8,
+    "params": "",
+    "type": "elementor",
+    "parent_id": null
+  }
+]

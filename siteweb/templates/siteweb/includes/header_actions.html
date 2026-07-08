@@ -1,0 +1,30 @@
+<div class="header-actions{% if variant == 'hero' %} hero-nav__actions{% endif %}" data-header-actions>
+    <div class="weather-widget" data-weather-widget aria-live="polite" title="Météo locale">
+        <span class="weather-widget__icon" data-weather-icon aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75">
+                <circle cx="12" cy="12" r="4"/>
+                <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+            </svg>
+        </span>
+        <span class="weather-widget__info">
+            <span class="weather-widget__city" data-weather-city>…</span>
+            <span class="weather-widget__temp" data-weather-temp>—°C</span>
+        </span>
+    </div>
+    <span class="header-actions__sep" aria-hidden="true"></span>
+    <button class="{% if variant == 'hero' %}hero-icon-btn{% else %}icon-btn{% endif %}" type="button" data-search-open aria-label="Rechercher" aria-expanded="false" aria-controls="search-overlay">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+    </button>
+    <button class="{% if variant == 'hero' %}hero-icon-btn{% else %}icon-btn{% endif %}" type="button" data-theme-toggle aria-label="Changer le thème">
+        <svg class="theme-icon theme-icon--moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+        </svg>
+        <svg class="theme-icon theme-icon--sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true" hidden>
+            <circle cx="12" cy="12" r="4"/>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/>
+        </svg>
+    </button>
+    <button class="{% if variant == 'hero' %}hero-icon-btn hero-menu-toggle{% else %}icon-btn menu-toggle{% endif %}" type="button" data-nav-drawer-open aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
+    </button>
+</div>

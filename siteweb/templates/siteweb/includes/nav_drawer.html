@@ -1,0 +1,17 @@
+{% load static %}
+<nav class="nav-drawer" id="nav-drawer" hidden aria-label="Menu principal">
+    <div class="nav-drawer__backdrop" data-nav-drawer-close></div>
+    <div class="nav-drawer__panel" role="dialog" aria-modal="true" aria-label="Navigation">
+        <div class="nav-drawer__header">
+            <img src="{% static 'siteweb/images/logo-afrika-pulse-221.png' %}" alt="Afrika Pulse 221" class="nav-drawer__logo">
+            <button class="nav-drawer__close" type="button" data-nav-drawer-close aria-label="Fermer le menu">×</button>
+        </div>
+        <div class="nav-drawer__links">
+            <a href="{% url 'siteweb:home' %}" {% if request.resolver_match.url_name == 'home' %}class="active"{% endif %}>Accueil</a>
+            {% for cat in nav_categories %}
+            <a href="{% url 'siteweb:post_list' %}">{{ cat }}</a>
+            {% endfor %}
+            <a href="{% url 'siteweb:post_list' %}">Tous les articles</a>
+        </div>
+    </div>
+</nav>

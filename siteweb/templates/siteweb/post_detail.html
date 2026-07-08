@@ -1,0 +1,18 @@
+{% extends 'siteweb/base.html' %}
+
+{% block title %}{{ formatted.title }} - Afrika Pulse 221{% endblock %}
+{% block header_class %}site-header--solid{% endblock %}
+
+{% block main %}
+<main class="inner-main">
+    <div class="container">
+        <a href="{% url 'siteweb:home' %}" class="back-link">&larr; Retour aux articles</a>
+        <article class="article-content">
+            <span class="category-tag" style="color: {{ formatted.category_color }}; display: inline-block; margin-bottom: 0.5rem;">{{ formatted.category|upper }}</span>
+            <h1>{{ formatted.title }}</h1>
+            <p><time datetime="{{ post.post_date|date:'Y-m-d' }}">{{ post.post_date|date:'d F Y' }}</time></p>
+            <div class="body">{{ fixed_content|safe }}</div>
+        </article>
+    </div>
+</main>
+{% endblock %}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "slider_id": 1,
+    "params": "{\"version\":\"\",\"bg\":{\"image\":\"\"},\"image\":\"\"}",
+    "layers": "[]",
+    "settings": "{\"temp\":true}"
+  },
+  {
+    "id": 2,
+    "slider_id": 2,
+    "params": "{\"version\":\"\",\"bg\":{\"image\":\"\"},\"image\":\"\"}",
+    "layers": "[]",
+    "settings": "{\"temp\":true}"
+  },
+  {
+    "id": 3,
+    "slider_id": 3,
+    "params": "{\"version\":\"\",\"bg\":{\"image\":\"\"},\"image\":\"\"}",
+    "layers": "[]",
+    "settings": "{\"temp\":true}"
+  },
+  {
+    "id": 4,
+    "slider_id": 4,
+    "params": "{\"version\":\"\",\"bg\":{\"image\":\"\"},\"image\":\"\"}",
+    "layers": "[]",
+    "settings": "{\"temp\":true}"
+  }
+]

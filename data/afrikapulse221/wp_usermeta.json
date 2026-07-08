@@ -1,0 +1,1250 @@
+[
+  {
+    "umeta_id": 1,
+    "user_id": 1,
+    "meta_key": "nickname",
+    "meta_value": "Pulaagu"
+  },
+  {
+    "umeta_id": 2,
+    "user_id": 1,
+    "meta_key": "first_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 3,
+    "user_id": 1,
+    "meta_key": "last_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 4,
+    "user_id": 1,
+    "meta_key": "description",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 5,
+    "user_id": 1,
+    "meta_key": "rich_editing",
+    "meta_value": "false"
+  },
+  {
+    "umeta_id": 6,
+    "user_id": 1,
+    "meta_key": "syntax_highlighting",
+    "meta_value": "false"
+  },
+  {
+    "umeta_id": 7,
+    "user_id": 1,
+    "meta_key": "comment_shortcuts",
+    "meta_value": "false"
+  },
+  {
+    "umeta_id": 8,
+    "user_id": 1,
+    "meta_key": "admin_color",
+    "meta_value": "fresh"
+  },
+  {
+    "umeta_id": 9,
+    "user_id": 1,
+    "meta_key": "use_ssl",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 10,
+    "user_id": 1,
+    "meta_key": "show_admin_bar_front",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 11,
+    "user_id": 1,
+    "meta_key": "locale",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 12,
+    "user_id": 1,
+    "meta_key": "wp_capabilities",
+    "meta_value": "a:1:{s:8:\"customer\";b:1;}"
+  },
+  {
+    "umeta_id": 13,
+    "user_id": 1,
+    "meta_key": "wp_user_level",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 14,
+    "user_id": 1,
+    "meta_key": "dismissed_wp_pointers",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 15,
+    "user_id": 1,
+    "meta_key": "show_welcome_panel",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 16,
+    "user_id": 1,
+    "meta_key": "session_tokens",
+    "meta_value": "a:1:{s:64:\"d94b92330c864779f7311eff1179b5dd0e1dc8c42806dae124c124832aac3fa4\";a:4:{s:10:\"expiration\";i:1731606518;s:2:\"ip\";s:10:\"41.83.5.99\";s:2:\"ua\";s:111:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36\";s:5:\"login\";i:1731433718;}}"
+  },
+  {
+    "umeta_id": 17,
+    "user_id": 1,
+    "meta_key": "wp_dashboard_quick_press_last_post_id",
+    "meta_value": "8045"
+  },
+  {
+    "umeta_id": 18,
+    "user_id": 1,
+    "meta_key": "community-events-location",
+    "meta_value": "a:1:{s:2:\"ip\";s:9:\"41.83.5.0\";}"
+  },
+  {
+    "umeta_id": 19,
+    "user_id": 1,
+    "meta_key": "_woocommerce_tracks_anon_id",
+    "meta_value": "woo:rI1s7sngsgrqNp7+RKbEh2m+"
+  },
+  {
+    "umeta_id": 20,
+    "user_id": 1,
+    "meta_key": "wc_last_active",
+    "meta_value": "1731542400"
+  },
+  {
+    "umeta_id": 21,
+    "user_id": 1,
+    "meta_key": "nav_menu_recently_edited",
+    "meta_value": "55"
+  },
+  {
+    "umeta_id": 22,
+    "user_id": 1,
+    "meta_key": "managenav-menuscolumnshidden",
+    "meta_value": "a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"
+  },
+  {
+    "umeta_id": 23,
+    "user_id": 1,
+    "meta_key": "metaboxhidden_nav-menus",
+    "meta_value": "a:9:{i:0;s:21:\"add-post-type-product\";i:1;s:25:\"add-post-type-rts-canvans\";i:2;s:28:\"add-post-type-rtelements_pro\";i:3;s:26:\"add-post-type-elementor-hf\";i:4;s:12:\"add-post_tag\";i:5;s:15:\"add-post_format\";i:6;s:15:\"add-product_cat\";i:7;s:15:\"add-product_tag\";i:8;s:18:\"add-food-materials\";}"
+  },
+  {
+    "umeta_id": 24,
+    "user_id": 1,
+    "meta_key": "elementor_introduction",
+    "meta_value": "a:2:{s:27:\"ai-get-started-announcement\";b:1;s:20:\"globals_introduction\";b:1;}"
+  },
+  {
+    "umeta_id": 25,
+    "user_id": 1,
+    "meta_key": "wp_user-settings",
+    "meta_value": "libraryContent=browse&editor=tinymce"
+  },
+  {
+    "umeta_id": 26,
+    "user_id": 1,
+    "meta_key": "wp_user-settings-time",
+    "meta_value": "1729024737"
+  },
+  {
+    "umeta_id": 27,
+    "user_id": 1,
+    "meta_key": "last_update",
+    "meta_value": "1731085385"
+  },
+  {
+    "umeta_id": 28,
+    "user_id": 1,
+    "meta_key": "woocommerce_admin_coming_soon_banner_dismissed",
+    "meta_value": "yes"
+  },
+  {
+    "umeta_id": 29,
+    "user_id": 1,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_0",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 30,
+    "user_id": 1,
+    "meta_key": "meta-box-order_product",
+    "meta_value": "a:3:{s:4:\"side\";s:84:\"submitdiv,postimagediv,woocommerce-product-images,product_catdiv,tagsdiv-product_tag\";s:6:\"normal\";s:55:\"woocommerce-product-data,postcustom,slugdiv,postexcerpt\";s:8:\"advanced\";s:0:\"\";}"
+  },
+  {
+    "umeta_id": 31,
+    "user_id": 1,
+    "meta_key": "wp_persisted_preferences",
+    "meta_value": "a:3:{s:4:\"core\";a:2:{s:26:\"isComplementaryAreaVisible\";b:1;s:10:\"openPanels\";a:3:{i:0;s:11:\"post-status\";i:1;s:23:\"taxonomy-panel-category\";i:2;s:23:\"taxonomy-panel-post_tag\";}}s:14:\"core/edit-post\";a:1:{s:12:\"welcomeGuide\";b:0;}s:9:\"_modified\";s:24:\"2024-11-08T17:03:04.581Z\";}"
+  },
+  {
+    "umeta_id": 32,
+    "user_id": 1,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_1",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 33,
+    "user_id": 1,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_2",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 34,
+    "user_id": 1,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_3",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 35,
+    "user_id": 1,
+    "meta_key": "wp_elementor_enable_ai",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 36,
+    "user_id": 1,
+    "meta_key": "billing_first_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 37,
+    "user_id": 1,
+    "meta_key": "billing_last_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 38,
+    "user_id": 1,
+    "meta_key": "billing_company",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 39,
+    "user_id": 1,
+    "meta_key": "billing_address_1",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 40,
+    "user_id": 1,
+    "meta_key": "billing_address_2",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 41,
+    "user_id": 1,
+    "meta_key": "billing_city",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 42,
+    "user_id": 1,
+    "meta_key": "billing_postcode",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 43,
+    "user_id": 1,
+    "meta_key": "billing_country",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 44,
+    "user_id": 1,
+    "meta_key": "billing_state",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 45,
+    "user_id": 1,
+    "meta_key": "billing_phone",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 46,
+    "user_id": 1,
+    "meta_key": "billing_email",
+    "meta_value": "cblniv15@gmail.com"
+  },
+  {
+    "umeta_id": 47,
+    "user_id": 1,
+    "meta_key": "shipping_first_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 48,
+    "user_id": 1,
+    "meta_key": "shipping_last_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 49,
+    "user_id": 1,
+    "meta_key": "shipping_company",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 50,
+    "user_id": 1,
+    "meta_key": "shipping_address_1",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 51,
+    "user_id": 1,
+    "meta_key": "shipping_address_2",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 52,
+    "user_id": 1,
+    "meta_key": "shipping_city",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 53,
+    "user_id": 1,
+    "meta_key": "shipping_postcode",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 54,
+    "user_id": 1,
+    "meta_key": "shipping_country",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 55,
+    "user_id": 1,
+    "meta_key": "shipping_state",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 56,
+    "user_id": 1,
+    "meta_key": "shipping_phone",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 57,
+    "user_id": 1,
+    "meta_key": "meta-box-order_dashboard",
+    "meta_value": "a:4:{s:6:\"normal\";s:158:\"wpmet-stories,wc_admin_dashboard_setup,e-dashboard-overview,dashboard_right_now,wp-dashboard-widget-news,yith_dashboard_products_news,yith_dashboard_blog_news\";s:4:\"side\";s:21:\"dashboard_quick_press\";s:7:\"column3\";s:36:\"dashboard_primary,dashboard_activity\";s:7:\"column4\";s:47:\"bdt-ps-dashboard-overview,dashboard_site_health\";}"
+  },
+  {
+    "umeta_id": 58,
+    "user_id": 2,
+    "meta_key": "nickname",
+    "meta_value": "pulaagu"
+  },
+  {
+    "umeta_id": 59,
+    "user_id": 2,
+    "meta_key": "first_name",
+    "meta_value": "Oumou Khairy"
+  },
+  {
+    "umeta_id": 60,
+    "user_id": 2,
+    "meta_key": "last_name",
+    "meta_value": "DIA"
+  },
+  {
+    "umeta_id": 61,
+    "user_id": 2,
+    "meta_key": "description",
+    "meta_value": "Journaliste et charg??e de communication"
+  },
+  {
+    "umeta_id": 62,
+    "user_id": 2,
+    "meta_key": "rich_editing",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 63,
+    "user_id": 2,
+    "meta_key": "syntax_highlighting",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 64,
+    "user_id": 2,
+    "meta_key": "comment_shortcuts",
+    "meta_value": "false"
+  },
+  {
+    "umeta_id": 65,
+    "user_id": 2,
+    "meta_key": "admin_color",
+    "meta_value": "fresh"
+  },
+  {
+    "umeta_id": 66,
+    "user_id": 2,
+    "meta_key": "use_ssl",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 67,
+    "user_id": 2,
+    "meta_key": "show_admin_bar_front",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 68,
+    "user_id": 2,
+    "meta_key": "locale",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 69,
+    "user_id": 2,
+    "meta_key": "wp_capabilities",
+    "meta_value": "a:1:{s:13:\"administrator\";b:1;}"
+  },
+  {
+    "umeta_id": 70,
+    "user_id": 2,
+    "meta_key": "wp_user_level",
+    "meta_value": "10"
+  },
+  {
+    "umeta_id": 71,
+    "user_id": 2,
+    "meta_key": "dismissed_wp_pointers",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 72,
+    "user_id": 2,
+    "meta_key": "last_update",
+    "meta_value": "1732768065"
+  },
+  {
+    "umeta_id": 73,
+    "user_id": 2,
+    "meta_key": "wp_elementor_enable_ai",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 74,
+    "user_id": 2,
+    "meta_key": "billing_first_name",
+    "meta_value": "elhadj"
+  },
+  {
+    "umeta_id": 75,
+    "user_id": 2,
+    "meta_key": "billing_last_name",
+    "meta_value": "pouye"
+  },
+  {
+    "umeta_id": 76,
+    "user_id": 2,
+    "meta_key": "billing_company",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 77,
+    "user_id": 2,
+    "meta_key": "billing_address_1",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 78,
+    "user_id": 2,
+    "meta_key": "billing_address_2",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 79,
+    "user_id": 2,
+    "meta_key": "billing_city",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 80,
+    "user_id": 2,
+    "meta_key": "billing_postcode",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 81,
+    "user_id": 2,
+    "meta_key": "billing_country",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 82,
+    "user_id": 2,
+    "meta_key": "billing_state",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 83,
+    "user_id": 2,
+    "meta_key": "billing_phone",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 84,
+    "user_id": 2,
+    "meta_key": "billing_email",
+    "meta_value": "amadou.pouye@upcorpdev.com"
+  },
+  {
+    "umeta_id": 85,
+    "user_id": 2,
+    "meta_key": "shipping_first_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 86,
+    "user_id": 2,
+    "meta_key": "shipping_last_name",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 87,
+    "user_id": 2,
+    "meta_key": "shipping_company",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 88,
+    "user_id": 2,
+    "meta_key": "shipping_address_1",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 89,
+    "user_id": 2,
+    "meta_key": "shipping_address_2",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 90,
+    "user_id": 2,
+    "meta_key": "shipping_city",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 91,
+    "user_id": 2,
+    "meta_key": "shipping_postcode",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 92,
+    "user_id": 2,
+    "meta_key": "shipping_country",
+    "meta_value": "SN"
+  },
+  {
+    "umeta_id": 93,
+    "user_id": 2,
+    "meta_key": "shipping_state",
+    "meta_value": "SNDK"
+  },
+  {
+    "umeta_id": 94,
+    "user_id": 2,
+    "meta_key": "shipping_phone",
+    "meta_value": "772709323"
+  },
+  {
+    "umeta_id": 95,
+    "user_id": 2,
+    "meta_key": "session_tokens",
+    "meta_value": "a:4:{s:64:\"f180e043b480e35da5d818a75badd798ad1b0d6c72e02807f7580b384ddde4f9\";a:4:{s:10:\"expiration\";i:1742376644;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:126:\"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 wp-iphone/25.7.1\";s:5:\"login\";i:1741167044;}s:64:\"c3c94bdc1dc697d7c87bd0be0a789a5626b08a8eee5c44321510d7887878c40f\";a:4:{s:10:\"expiration\";i:1742387374;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:126:\"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 wp-iphone/25.7.1\";s:5:\"login\";i:1741177774;}s:64:\"d977995c4946b9511d53051537c9028090a95d8b5571ca104857534b8167d945\";a:4:{s:10:\"expiration\";i:1742390075;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:125:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0\";s:5:\"login\";i:1741180475;}s:64:\"5d0dc64bcd523abd0ee23ad013ca4729f17d7102fc1072291df9d03fbc3fda94\";a:4:{s:10:\"expiration\";i:1742636195;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:126:\"Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 wp-iphone/25.7.1\";s:5:\"login\";i:1741426595;}}"
+  },
+  {
+    "umeta_id": 96,
+    "user_id": 2,
+    "meta_key": "wc_last_active",
+    "meta_value": "1732752000"
+  },
+  {
+    "umeta_id": 98,
+    "user_id": 2,
+    "meta_key": "_woocommerce_tracks_anon_id",
+    "meta_value": "woo:m/Ettl6yzbkGREpVn3KgentK"
+  },
+  {
+    "umeta_id": 99,
+    "user_id": 2,
+    "meta_key": "wp_dashboard_quick_press_last_post_id",
+    "meta_value": "8434"
+  },
+  {
+    "umeta_id": 100,
+    "user_id": 2,
+    "meta_key": "_woocommerce_persistent_cart_1",
+    "meta_value": "a:1:{s:4:\"cart\";a:0:{}}"
+  },
+  {
+    "umeta_id": 101,
+    "user_id": 2,
+    "meta_key": "community-events-location",
+    "meta_value": "a:1:{s:2:\"ip\";s:11:\"41.82.123.0\";}"
+  },
+  {
+    "umeta_id": 104,
+    "user_id": 2,
+    "meta_key": "meta-box-order_product",
+    "meta_value": "a:3:{s:4:\"side\";s:84:\"submitdiv,postimagediv,woocommerce-product-images,product_catdiv,tagsdiv-product_tag\";s:6:\"normal\";s:55:\"woocommerce-product-data,postcustom,slugdiv,postexcerpt\";s:8:\"advanced\";s:0:\"\";}"
+  },
+  {
+    "umeta_id": 105,
+    "user_id": 2,
+    "meta_key": "wp_persisted_preferences",
+    "meta_value": "a:3:{s:14:\"core/edit-post\";a:1:{s:12:\"welcomeGuide\";b:0;}s:9:\"_modified\";s:24:\"2025-03-05T14:32:23.640Z\";s:4:\"core\";a:3:{s:26:\"isComplementaryAreaVisible\";b:1;s:10:\"openPanels\";a:4:{i:0;s:11:\"post-status\";i:1;s:23:\"taxonomy-panel-category\";i:2;s:23:\"taxonomy-panel-post_tag\";i:3;s:24:\"yoast-seo/document-panel\";}s:10:\"editorMode\";s:4:\"text\";}}"
+  },
+  {
+    "umeta_id": 106,
+    "user_id": 2,
+    "meta_key": "closedpostboxes_post",
+    "meta_value": "a:1:{i:0;s:25:\"slider_revolution_metabox\";}"
+  },
+  {
+    "umeta_id": 107,
+    "user_id": 2,
+    "meta_key": "metaboxhidden_post",
+    "meta_value": "a:0:{}"
+  },
+  {
+    "umeta_id": 108,
+    "user_id": 2,
+    "meta_key": "meta-box-order_post",
+    "meta_value": "a:3:{s:6:\"normal\";s:10:\"rt_metabox\";s:8:\"advanced\";s:0:\"\";s:4:\"side\";s:25:\"slider_revolution_metabox\";}"
+  },
+  {
+    "umeta_id": 109,
+    "user_id": 2,
+    "meta_key": "wp_user-settings",
+    "meta_value": "libraryContent=browse"
+  },
+  {
+    "umeta_id": 110,
+    "user_id": 2,
+    "meta_key": "wp_user-settings-time",
+    "meta_value": "1731540972"
+  },
+  {
+    "umeta_id": 127,
+    "user_id": 2,
+    "meta_key": "elementor_introduction",
+    "meta_value": "a:2:{s:27:\"ai-get-started-announcement\";b:1;s:20:\"globals_introduction\";b:1;}"
+  },
+  {
+    "umeta_id": 128,
+    "user_id": 2,
+    "meta_key": "wpr_compare",
+    "meta_value": "a:0:{}"
+  },
+  {
+    "umeta_id": 129,
+    "user_id": 2,
+    "meta_key": "wpr_wishlist",
+    "meta_value": "a:0:{}"
+  },
+  {
+    "umeta_id": 130,
+    "user_id": 2,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_0",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 131,
+    "user_id": 2,
+    "meta_key": "templately_upsale_notice_dismissed",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 132,
+    "user_id": 2,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_1",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 133,
+    "user_id": 2,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_2",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 134,
+    "user_id": 3,
+    "meta_key": "nickname",
+    "meta_value": "dieynaba"
+  },
+  {
+    "umeta_id": 135,
+    "user_id": 3,
+    "meta_key": "first_name",
+    "meta_value": "Dieynaba"
+  },
+  {
+    "umeta_id": 136,
+    "user_id": 3,
+    "meta_key": "last_name",
+    "meta_value": "Diallo"
+  },
+  {
+    "umeta_id": 137,
+    "user_id": 3,
+    "meta_key": "description",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 138,
+    "user_id": 3,
+    "meta_key": "rich_editing",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 139,
+    "user_id": 3,
+    "meta_key": "syntax_highlighting",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 140,
+    "user_id": 3,
+    "meta_key": "comment_shortcuts",
+    "meta_value": "false"
+  },
+  {
+    "umeta_id": 141,
+    "user_id": 3,
+    "meta_key": "admin_color",
+    "meta_value": "fresh"
+  },
+  {
+    "umeta_id": 142,
+    "user_id": 3,
+    "meta_key": "use_ssl",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 143,
+    "user_id": 3,
+    "meta_key": "show_admin_bar_front",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 144,
+    "user_id": 3,
+    "meta_key": "locale",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 145,
+    "user_id": 3,
+    "meta_key": "wp_capabilities",
+    "meta_value": "a:1:{s:6:\"author\";b:1;}"
+  },
+  {
+    "umeta_id": 146,
+    "user_id": 3,
+    "meta_key": "wp_user_level",
+    "meta_value": "2"
+  },
+  {
+    "umeta_id": 147,
+    "user_id": 3,
+    "meta_key": "dismissed_wp_pointers",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 148,
+    "user_id": 3,
+    "meta_key": "default_password_nag",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 149,
+    "user_id": 3,
+    "meta_key": "session_tokens",
+    "meta_value": "a:4:{s:64:\"b6f238b3d6b78a326281cfcbfc5e608e3c0faff178476270bc029c0d1a3f5676\";a:4:{s:10:\"expiration\";i:1737837393;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:125:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0\";s:5:\"login\";i:1737664593;}s:64:\"ba67e61055c75f98ed18485d0692156327af683a79379dc84864d6c654458c69\";a:4:{s:10:\"expiration\";i:1737839249;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:111:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\";s:5:\"login\";i:1737666449;}s:64:\"3deecd8cc957c707c832fd267cbd5eac6e158a9204aded5e57eb834ac9c5723d\";a:4:{s:10:\"expiration\";i:1737929712;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:111:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\";s:5:\"login\";i:1737756912;}s:64:\"75408c9d7c9040660773103647e187c4dc2af0bd4abbd409a3126c2b8d778d64\";a:4:{s:10:\"expiration\";i:1737929714;s:2:\"ip\";s:13:\"41.82.123.196\";s:2:\"ua\";s:111:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36\";s:5:\"login\";i:1737756914;}}"
+  },
+  {
+    "umeta_id": 150,
+    "user_id": 3,
+    "meta_key": "wp_dashboard_quick_press_last_post_id",
+    "meta_value": "8394"
+  },
+  {
+    "umeta_id": 151,
+    "user_id": 3,
+    "meta_key": "community-events-location",
+    "meta_value": "a:1:{s:2:\"ip\";s:11:\"41.82.123.0\";}"
+  },
+  {
+    "umeta_id": 152,
+    "user_id": 3,
+    "meta_key": "templately_upsale_notice_dismissed",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 153,
+    "user_id": 3,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_0",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 154,
+    "user_id": 3,
+    "meta_key": "wp_persisted_preferences",
+    "meta_value": "a:3:{s:4:\"core\";a:2:{s:26:\"isComplementaryAreaVisible\";b:0;s:10:\"openPanels\";a:2:{i:0;s:11:\"post-status\";i:1;s:23:\"taxonomy-panel-category\";}}s:14:\"core/edit-post\";a:1:{s:12:\"welcomeGuide\";b:0;}s:9:\"_modified\";s:24:\"2025-01-24T22:19:37.603Z\";}"
+  },
+  {
+    "umeta_id": 155,
+    "user_id": 3,
+    "meta_key": "wp_user-settings",
+    "meta_value": "libraryContent=browse"
+  },
+  {
+    "umeta_id": 156,
+    "user_id": 3,
+    "meta_key": "wp_user-settings-time",
+    "meta_value": "1737665802"
+  },
+  {
+    "umeta_id": 157,
+    "user_id": 2,
+    "meta_key": "quadlayers_wp-whatsapp-chat_notice_hidden_3",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 158,
+    "user_id": 2,
+    "meta_key": "easywp_automatic_update_notice_closed",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 159,
+    "user_id": 2,
+    "meta_key": "default_password_nag",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 160,
+    "user_id": 4,
+    "meta_key": "nickname",
+    "meta_value": "mouhamad"
+  },
+  {
+    "umeta_id": 161,
+    "user_id": 4,
+    "meta_key": "first_name",
+    "meta_value": "Mouhamad"
+  },
+  {
+    "umeta_id": 162,
+    "user_id": 4,
+    "meta_key": "last_name",
+    "meta_value": "Mbengue"
+  },
+  {
+    "umeta_id": 163,
+    "user_id": 4,
+    "meta_key": "description",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 164,
+    "user_id": 4,
+    "meta_key": "rich_editing",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 165,
+    "user_id": 4,
+    "meta_key": "syntax_highlighting",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 166,
+    "user_id": 4,
+    "meta_key": "comment_shortcuts",
+    "meta_value": "false"
+  },
+  {
+    "umeta_id": 167,
+    "user_id": 4,
+    "meta_key": "admin_color",
+    "meta_value": "fresh"
+  },
+  {
+    "umeta_id": 168,
+    "user_id": 4,
+    "meta_key": "use_ssl",
+    "meta_value": "0"
+  },
+  {
+    "umeta_id": 169,
+    "user_id": 4,
+    "meta_key": "show_admin_bar_front",
+    "meta_value": "true"
+  },
+  {
+    "umeta_id": 170,
+    "user_id": 4,
+    "meta_key": "locale",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 171,
+    "user_id": 4,
+    "meta_key": "wp_capabilities",
+    "meta_value": "a:1:{s:13:\"administrator\";b:1;}"
+  },
+  {
+    "umeta_id": 172,
+    "user_id": 4,
+    "meta_key": "wp_user_level",
+    "meta_value": "10"
+  },
+  {
+    "umeta_id": 173,
+    "user_id": 4,
+    "meta_key": "dismissed_wp_pointers",
+    "meta_value": "plugin_editor_notice"
+  },
+  {
+    "umeta_id": 175,
+    "user_id": 4,
+    "meta_key": "wp_dashboard_quick_press_last_post_id",
+    "meta_value": "9316"
+  },
+  {
+    "umeta_id": 176,
+    "user_id": 4,
+    "meta_key": "community-events-location",
+    "meta_value": "a:1:{s:2:\"ip\";s:12:\"41.208.141.0\";}"
+  },
+  {
+    "umeta_id": 178,
+    "user_id": 4,
+    "meta_key": "_yoast_wpseo_introductions",
+    "meta_value": "a:1:{s:25:\"ai-fix-assessments-upsell\";b:1;}"
+  },
+  {
+    "umeta_id": 179,
+    "user_id": 3,
+    "meta_key": "_yoast_wpseo_profile_updated",
+    "meta_value": "1741181362"
+  },
+  {
+    "umeta_id": 180,
+    "user_id": 1,
+    "meta_key": "_yoast_wpseo_profile_updated",
+    "meta_value": "1741444066"
+  },
+  {
+    "umeta_id": 181,
+    "user_id": 4,
+    "meta_key": "_yoast_wpseo_profile_updated",
+    "meta_value": "1741181362"
+  },
+  {
+    "umeta_id": 182,
+    "user_id": 2,
+    "meta_key": "_yoast_wpseo_profile_updated",
+    "meta_value": "1741181362"
+  },
+  {
+    "umeta_id": 184,
+    "user_id": 2,
+    "meta_key": "_yoast_wpseo_introductions",
+    "meta_value": "a:1:{s:25:\"ai-fix-assessments-upsell\";b:1;}"
+  },
+  {
+    "umeta_id": 187,
+    "user_id": 4,
+    "meta_key": "wp_persisted_preferences",
+    "meta_value": "a:5:{s:4:\"core\";a:2:{s:10:\"openPanels\";a:3:{i:0;s:11:\"post-status\";i:1;s:24:\"yoast-seo/document-panel\";i:2;s:33:\"taxonomy-panel-portfolio-category\";}s:26:\"isComplementaryAreaVisible\";b:1;}s:14:\"core/edit-post\";a:1:{s:12:\"welcomeGuide\";b:0;}s:9:\"_modified\";s:24:\"2025-04-01T12:34:27.449Z\";s:14:\"core/edit-site\";a:1:{s:12:\"welcomeGuide\";b:0;}s:17:\"core/edit-widgets\";a:2:{s:26:\"isComplementaryAreaVisible\";b:1;s:12:\"welcomeGuide\";b:0;}}"
+  },
+  {
+    "umeta_id": 188,
+    "user_id": 4,
+    "meta_key": "elementor_introduction",
+    "meta_value": "a:4:{s:27:\"ai-get-started-announcement\";b:1;s:28:\"yoast-introduction-editor-v2\";b:1;s:20:\"globals_introduction\";b:1;s:14:\"ai_get_started\";b:1;}"
+  },
+  {
+    "umeta_id": 189,
+    "user_id": 4,
+    "meta_key": "wp_user-settings",
+    "meta_value": "editor=tinymce&libraryContent=browse"
+  },
+  {
+    "umeta_id": 190,
+    "user_id": 4,
+    "meta_key": "wp_user-settings-time",
+    "meta_value": "1743516701"
+  },
+  {
+    "umeta_id": 191,
+    "user_id": 4,
+    "meta_key": "image_optimizer_dismissed_pointers",
+    "meta_value": "a:2:{s:24:\"image-optimizer-settings\";b:1;s:25:\"image-optimizer-list-view\";b:1;}"
+  },
+  {
+    "umeta_id": 199,
+    "user_id": 1,
+    "meta_key": "wpseo_metadesc",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 200,
+    "user_id": 1,
+    "meta_key": "wpseo_title",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 201,
+    "user_id": 1,
+    "meta_key": "wpseo_content_analysis_disable",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 202,
+    "user_id": 1,
+    "meta_key": "wpseo_keyword_analysis_disable",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 203,
+    "user_id": 4,
+    "meta_key": "wp_yoast_notifications",
+    "meta_value": "a:1:{i:0;a:2:{s:7:\"message\";s:236:\"Vous avez ajout?? un nouveau type de contenu. Nous vous recommandons de passer en revue les types de publication correspondants dans les <a href=\"https://afrikapulse221.com/wp-admin/admin.php?page=wpseo_page_settings\">r??glages SEO</a>.\";s:7:\"options\";a:10:{s:4:\"type\";s:7:\"warning\";s:2:\"id\";s:25:\"content-types-made-public\";s:7:\"user_id\";i:4;s:5:\"nonce\";N;s:8:\"priority\";d:0.8;s:9:\"data_json\";a:0:{}s:13:\"dismissal_key\";N;s:12:\"capabilities\";s:20:\"wpseo_manage_options\";s:16:\"capability_check\";s:3:\"all\";s:14:\"yoast_branding\";b:0;}}}"
+  },
+  {
+    "umeta_id": 204,
+    "user_id": 4,
+    "meta_key": "plugins_per_page",
+    "meta_value": "999"
+  },
+  {
+    "umeta_id": 205,
+    "user_id": 4,
+    "meta_key": "wp_media_library_mode",
+    "meta_value": "grid"
+  },
+  {
+    "umeta_id": 206,
+    "user_id": 4,
+    "meta_key": "elementor_admin_notices",
+    "meta_value": "a:2:{s:20:\"design_not_appearing\";a:2:{s:9:\"is_viewed\";b:0;s:4:\"meta\";a:1:{s:7:\"version\";s:6:\"3.24.6\";}}s:16:\"rate_us_feedback\";a:2:{s:9:\"is_viewed\";b:1;s:4:\"meta\";a:0:{}}}"
+  },
+  {
+    "umeta_id": 207,
+    "user_id": 4,
+    "meta_key": "elementor_dismissed_editor_notices",
+    "meta_value": "a:1:{i:0;s:20:\"image_optimizer_hint\";}"
+  },
+  {
+    "umeta_id": 208,
+    "user_id": 4,
+    "meta_key": "nav_menu_recently_edited",
+    "meta_value": "55"
+  },
+  {
+    "umeta_id": 209,
+    "user_id": 4,
+    "meta_key": "managenav-menuscolumnshidden",
+    "meta_value": "a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}"
+  },
+  {
+    "umeta_id": 210,
+    "user_id": 4,
+    "meta_key": "metaboxhidden_nav-menus",
+    "meta_value": "a:1:{i:0;s:12:\"add-post_tag\";}"
+  },
+  {
+    "umeta_id": 211,
+    "user_id": 4,
+    "meta_key": "wp_elementor_connect_common_data",
+    "meta_value": "a:6:{s:9:\"client_id\";s:32:\"SbweTDnDwEIE73iSgGP7D9uFljgc13cO\";s:11:\"auth_secret\";s:32:\"VEjTJguY0BolgYNYxo2HizeHtS3741jm\";s:12:\"access_token\";s:299:\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIyNTcwMDg0IiwiYXVkIjoiaHR0cDovL2xvY2FsaG9zdC9hZnJpa2FwdWxzZS8iLCJjbGllbnRfaWQiOiJTYndlVERuRHdFSUU3M2lTZ0dQN0Q5dUZsamdjMTNjTyIsImNvbm5lY3RfdHlwZSI6ImxpYnJhcnkiLCJpYXQiOjE3NDI2NzY3NDEsImV4cCI6MzE3Mjg3MTE5MTQxfQ.CwAVeX7RjFRuYYw5l18EoDc2jpHSlpAERDSCK_61NKg\";s:19:\"access_token_secret\";s:32:\"iXrhFWXzQT5mQP7JEBYejEfFdmzfXzCJ\";s:10:\"token_type\";s:6:\"bearer\";s:4:\"user\";O:8:\"stdClass\":1:{s:5:\"email\";s:20:\"mamadiao97@gmail.com\";}}"
+  },
+  {
+    "umeta_id": 212,
+    "user_id": 4,
+    "meta_key": "facebook",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 213,
+    "user_id": 4,
+    "meta_key": "twitter",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 214,
+    "user_id": 4,
+    "meta_key": "linkedin",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 215,
+    "user_id": 4,
+    "meta_key": "dribbble",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 216,
+    "user_id": 4,
+    "meta_key": "instagram",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 217,
+    "user_id": 4,
+    "meta_key": "pinterest",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 218,
+    "user_id": 4,
+    "meta_key": "wordpress",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 219,
+    "user_id": 4,
+    "meta_key": "github",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 220,
+    "user_id": 4,
+    "meta_key": "medium",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 221,
+    "user_id": 4,
+    "meta_key": "youtube",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 222,
+    "user_id": 4,
+    "meta_key": "vimeo",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 223,
+    "user_id": 4,
+    "meta_key": "vkontakte",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 224,
+    "user_id": 4,
+    "meta_key": "odnoklassniki",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 225,
+    "user_id": 4,
+    "meta_key": "tiktok",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 226,
+    "user_id": 4,
+    "meta_key": "mastodon",
+    "meta_value": ""
+  },
+  {
+    "umeta_id": 228,
+    "user_id": 4,
+    "meta_key": "manageedit-acf-taxonomycolumnshidden",
+    "meta_value": "a:1:{i:0;s:7:\"acf-key\";}"
+  },
+  {
+    "umeta_id": 229,
+    "user_id": 4,
+    "meta_key": "acf_user_settings",
+    "meta_value": "a:2:{s:20:\"taxonomies-first-run\";b:1;s:19:\"post-type-first-run\";b:1;}"
+  },
+  {
+    "umeta_id": 230,
+    "user_id": 4,
+    "meta_key": "_e_notifications_dismissed",
+    "meta_value": "a:18:{i:0;s:19:\"hello-biz-templates\";i:1;s:15:\"ai-site-planner\";i:2;s:14:\"grid-span-3.27\";i:3;s:16:\"local-fonts-3.27\";i:4;s:17:\"video-shorts-3.27\";i:5;s:15:\"hello-biz-theme\";i:6;s:23:\"dynamic-off-canvas-3.26\";i:7;s:16:\"css-loading-3.25\";i:8;s:20:\"image-optimizer-3.19\";i:9;s:19:\"variable-fonts-3.24\";i:10;s:18:\"floating-bars-3.24\";i:11;s:17:\"ai-featured-image\";i:12;s:18:\"search-widget-3.23\";i:13;s:21:\"floating-buttons-3.23\";i:14;s:16:\"link-in-bio-3.23\";i:15;s:20:\"nested-elements-3.23\";i:16;s:20:\"5-star-rating-prompt\";i:17;s:23:\"site-mailer-introducing\";}"
+  },
+  {
+    "umeta_id": 231,
+    "user_id": 4,
+    "meta_key": "closedpostboxes_acf-taxonomy",
+    "meta_value": "a:0:{}"
+  },
+  {
+    "umeta_id": 232,
+    "user_id": 4,
+    "meta_key": "metaboxhidden_acf-taxonomy",
+    "meta_value": "a:2:{i:0;s:21:\"acf-advanced-settings\";i:1;s:7:\"slugdiv\";}"
+  },
+  {
+    "umeta_id": 233,
+    "user_id": 4,
+    "meta_key": "manageedit-acf-post-typecolumnshidden",
+    "meta_value": "a:1:{i:0;s:7:\"acf-key\";}"
+  },
+  {
+    "umeta_id": 234,
+    "user_id": 4,
+    "meta_key": "closedpostboxes_acf-post-type",
+    "meta_value": "a:0:{}"
+  },
+  {
+    "umeta_id": 235,
+    "user_id": 4,
+    "meta_key": "metaboxhidden_acf-post-type",
+    "meta_value": "a:2:{i:0;s:21:\"acf-advanced-settings\";i:1;s:7:\"slugdiv\";}"
+  },
+  {
+    "umeta_id": 236,
+    "user_id": 4,
+    "meta_key": "_templately_api_key",
+    "meta_value": "84a8bc1900645362fe5dae0e"
+  },
+  {
+    "umeta_id": 237,
+    "user_id": 4,
+    "meta_key": "_templately_cloud_activity",
+    "meta_value": "a:3:{s:5:\"value\";s:6:\"clouds\";s:5:\"label\";s:8:\"My Cloud\";s:4:\"slug\";s:6:\"clouds\";}"
+  },
+  {
+    "umeta_id": 238,
+    "user_id": 4,
+    "meta_key": "_templately_user",
+    "meta_value": "a:15:{s:2:\"id\";i:571215;s:4:\"name\";s:12:\"Mamadou diao\";s:10:\"first_name\";s:7:\"Mamadou\";s:9:\"last_name\";s:4:\"diao\";s:12:\"display_name\";N;s:5:\"email\";s:20:\"mamadiao97@gmail.com\";s:13:\"profile_photo\";N;s:6:\"joined\";s:17:\"December 16, 2024\";s:11:\"is_verified\";b:1;s:4:\"plan\";s:4:\"free\";s:14:\"plan_expire_at\";N;s:8:\"my_cloud\";a:2:{s:5:\"limit\";i:100;s:6:\"usages\";i:0;}s:10:\"favourites\";a:0:{}s:11:\"show_notice\";b:0;s:7:\"reviews\";a:0:{}}"
+  },
+  {
+    "umeta_id": 244,
+    "user_id": 4,
+    "meta_key": "essential_blocks_early_bird_notice_dismissed",
+    "meta_value": "1"
+  },
+  {
+    "umeta_id": 248,
+    "user_id": 4,
+    "meta_key": "session_tokens",
+    "meta_value": "a:1:{s:64:\"acceea83099276ea23f44de91d86ded666875ee691150d8780112f1593d9d6d3\";a:4:{s:10:\"expiration\";i:1743779927;s:2:\"ip\";s:3:\"::1\";s:2:\"ua\";s:111:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36\";s:5:\"login\";i:1743607127;}}"
+  }
+]

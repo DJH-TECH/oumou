@@ -1,0 +1,12 @@
+[
+  {
+    "url_id": 1,
+    "url": "file:///var/www/wptbox/wp-content/uploads/woocommerce_uploads/",
+    "enabled": 1
+  },
+  {
+    "url_id": 2,
+    "url": "https://affrikapulse221com-f0a4dc.ingress-alpha.ewp.live/wp-content/uploads/woocommerce_uploads/",
+    "enabled": 1
+  }
+]

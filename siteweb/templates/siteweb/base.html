@@ -1,0 +1,108 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Afrika Pulse 221{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'siteweb/css/site.css' %}">
+    {% block extra_css %}{% endblock %}
+    <script>
+        (function () {
+            if (localStorage.getItem('theme') === 'light') {
+                document.documentElement.classList.add('theme-light');
+            }
+        })();
+    </script>
+</head>
+<body class="{% block body_class %}{% endblock %}">
+    {% block site_header %}
+    <header class="site-header {% block header_class %}{% endblock %}" id="site-header">
+        <a href="{% url 'siteweb:home' %}" class="logo-link" aria-label="Afrika Pulse 221">
+            <img src="{% static 'siteweb/images/logo-afrika-pulse-221.png' %}" alt="Afrika Pulse 221" class="logo">
+        </a>
+        <nav class="site-nav" id="site-nav">
+            <a href="{% url 'siteweb:home' %}" {% if request.resolver_match.url_name == 'home' %}class="active"{% endif %}>Accueil</a>
+            {% for cat in nav_categories %}
+            <a href="{% url 'siteweb:post_list' %}">{{ cat }}</a>
+            {% endfor %}
+        </nav>
+        {% include 'siteweb/includes/header_actions.html' with nav_id='site-nav' %}
+    </header>
+    {% endblock %}
+
+    {% block main %}{% endblock %}
+
+    {% block site_footer %}
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-top">
+                <div class="footer-brand">
+                    <img src="{% static 'siteweb/images/logo-afrika-pulse-221.png' %}" alt="Afrika Pulse 221" class="footer-logo">
+                    <p>Le média qui raconte l'Afrique autrement. Actualités, analyses et reportages du continent.</p>
+                    <div class="social-links">
+                        <a href="#" aria-label="Facebook">f</a>
+                        <a href="#" aria-label="X">𝕏</a>
+                        <a href="#" aria-label="Instagram">◎</a>
+                        <a href="#" aria-label="YouTube">▶</a>
+                        <a href="#" aria-label="LinkedIn">in</a>
+                    </div>
+                </div>
+                <div class="footer-links">
+                    <div>
+                        <h4>Navigation</h4>
+                        <ul>
+                            <li><a href="{% url 'siteweb:home' %}">Accueil</a></li>
+                            <li><a href="{% url 'siteweb:post_list' %}">Articles</a></li>
+                            <li><a href="{% url 'siteweb:post_list' %}">Catégories</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Informations</h4>
+                        <ul>
+                            <li><a href="#">À propos</a></li>
+                            <li><a href="#">Notre équipe</a></li>
+                            <li><a href="#">Mentions légales</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Services</h4>
+                        <ul>
+                            <li><a href="#">Newsletter</a></li>
+                            <li><a href="#">Contact</a></li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h4>Nous contacter</h4>
+                        <ul>
+                            <li><a href="mailto:contact@afrikapulse221.com">contact@afrikapulse221.com</a></li>
+                            <li><a href="#">Dakar, Sénégal</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; {% now "Y" %} Afrika Pulse 221. Tous droits réservés.</p>
+            </div>
+        </div>
+    </footer>
+    {% endblock %}
+
+    <div class="search-overlay" id="search-overlay" hidden>
+        <div class="search-overlay__backdrop" data-search-close></div>
+        <div class="search-overlay__panel" role="dialog" aria-modal="true" aria-label="Recherche">
+            <button class="search-overlay__close" type="button" data-search-close aria-label="Fermer">×</button>
+            <form class="search-overlay__form" action="{% url 'siteweb:post_list' %}" method="get">
+                <label class="visually-hidden" for="search-input">Rechercher</label>
+                <input id="search-input" type="search" name="q" placeholder="Rechercher un article…" autocomplete="off">
+                <button type="submit">Rechercher</button>
+            </form>
+        </div>
+    </div>
+
+    {% include 'siteweb/includes/nav_drawer.html' %}
+
+    <script src="{% static 'siteweb/js/site.js' %}"></script>
+    {% block extra_js %}{% endblock %}
+</body>
+</html>

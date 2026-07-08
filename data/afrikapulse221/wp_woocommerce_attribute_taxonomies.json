@@ -1,0 +1,34 @@
+[
+  {
+    "attribute_id": 1,
+    "attribute_name": "color",
+    "attribute_label": "color",
+    "attribute_type": "select",
+    "attribute_orderby": "menu_order",
+    "attribute_public": 0
+  },
+  {
+    "attribute_id": 2,
+    "attribute_name": "size",
+    "attribute_label": "size",
+    "attribute_type": "select",
+    "attribute_orderby": "menu_order",
+    "attribute_public": 0
+  },
+  {
+    "attribute_id": 3,
+    "attribute_name": "color",
+    "attribute_label": "color",
+    "attribute_type": "select",
+    "attribute_orderby": "menu_order",
+    "attribute_public": 0
+  },
+  {
+    "attribute_id": 4,
+    "attribute_name": "size",
+    "attribute_label": "size",
+    "attribute_type": "select",
+    "attribute_orderby": "menu_order",
+    "attribute_public": 0
+  }
+]

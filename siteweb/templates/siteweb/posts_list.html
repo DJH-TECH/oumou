@@ -1,0 +1,37 @@
+{% extends 'siteweb/base.html' %}
+
+{% block title %}Articles - Afrika Pulse 221{% endblock %}
+{% block header_class %}site-header--solid{% endblock %}
+
+{% block main %}
+<main class="inner-main">
+    <div class="container">
+        <header style="margin-bottom: 2rem;">
+            <h1 style="font-size: 2rem; margin-bottom: 0.5rem;">
+                {% if search_query %}Résultats pour « {{ search_query }} »{% else %}Articles{% endif %}
+            </h1>
+            <p style="color: var(--text-muted);">
+                {% if search_query %}
+                    {{ posts|length }} article{{ posts|length|pluralize }} trouvé{{ posts|length|pluralize }}.
+                {% else %}
+                    Toutes les actualités publiées sur Afrika Pulse 221.
+                {% endif %}
+            </p>
+        </header>
+        {% if posts %}
+            {% for post in posts %}
+                <article class="post-card">
+                    <span class="category-tag" style="color: {{ post.category_color }};">{{ post.category|upper }}</span>
+                    <h2><a href="{% url 'siteweb:post_detail' post.id %}">{{ post.title }}</a></h2>
+                    <p><time datetime="{{ post.date|date:'Y-m-d' }}">{{ post.date|date:'d F Y' }}</time> · Il y a {{ post.time_ago }}</p>
+                    <p>{{ post.excerpt }}</p>
+                </article>
+            {% endfor %}
+        {% else %}
+            <p style="color: var(--text-muted);">
+                {% if search_query %}Aucun article ne correspond à votre recherche.{% else %}Aucun article publié trouvé.{% endif %}
+            </p>
+        {% endif %}
+    </div>
+</main>
+{% endblock %}
